@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html{
+    font-size: 16px;
+}
+
+body{
+    font-size: 0px;
+}
+
+header{
+    height:75px;
+    background-color: #3c9b9b;
+    text-align: center;
+}
+
+    h1{
+        font-size: 3rem;
+        line-height: 75px;
+    }
+
+#menuPrincipal{
+       background-color: #cdd833;
+       text-align: center;
+       font-size: 1rem;
+}
+
+    .opcionMenu{
+        display: inline-block;
+        text-decoration: none;
+        color: #fff;
+        padding: 10px 5px;
+    }
+
+section{
+    text-align: center;
+    padding-top:20px;
+    font-size: 1rem;
+}
+
+    h2{
+      font-size: 1rem;  
+    }
+
+input{
+    display: block;
+    margin:0 auto;
+    margin-bottom: 10px;
+}
+
+.opcion{
+    display:block;
+    background-color: #ff8c00;
+    font-size: 0.8rem;
+    width:100px;
+    padding:5px;
+    margin:0 auto;
+    text-decoration: none;
+    color:#fff;
+}
+
+
+
+
+
+table{
+	margin:0 auto;
+	padding: 20px;
+	text-align:center;
+}
+
+th{
+	background-color: #CDCDCD;
+	padding: 3px 0px 3px;
+	width:250px;
+}	
+
+td{
+	border-bottom: 2px solid #8080C0;
+	padding: 3px 0px 3px;
+}
+
+.icono {
+    width: 50px;
+    height: 50px;
+}
+
+.icono:active{
+    margin-top:1px;
+}
+
+img {
+    width: 100px;
+}
+
+
+#productos{
+	width:200px;
+	height:350px;
+	background-color: #5f9ea0;
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	vertical-align:top;
+	text-align:center;
+}
+
+#productos img{
+	width:100px;
+	height:150px;
+}
+
+#productos h3{
+	background-color: #e1ec43;
+	margin:2px 0px;
+}
